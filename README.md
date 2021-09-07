@@ -137,5 +137,5 @@
 10. **Not getting enough sleep.** Your brain pieces together problem-solving techniques when you sleep, and it also practices and repeats whatever you put in mind before you go to sleep. Prolonged fatigue allows toxins to build up in the brain that disrupt the neural connections you need to think quickly and well. If you don’t get a good sleep before a test, NOTHING ELSE YOU HAVE DONE WILL MATTER.
 
 ## Supplemental Readings
-* Scott Young, []"I was wrong about speed reading: Here are the facts,"](https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/) January 2015. This excellent blog post nicely summarizes what is known in relation to speed reading.
+* Scott Young, ["I was wrong about speed reading: Here are the facts,"](https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/) January 2015. This excellent blog post nicely summarizes what is known in relation to speed reading.
 * John Dunlosky, ["Strengthening the Student Toolbox: Study Strategies to Boost Learning,"](https://www.aft.org/sites/default/files/periodicals/dunlosky.pdf) American Educator, Fall, 2013.  This excellent, comprehensive article is written by one of the top researchers in learning.
