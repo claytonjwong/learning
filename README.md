@@ -55,10 +55,40 @@
 
 ## Chunking
 
-* Grasp and master key ideas
+* Grasp and master key ideas by coalescing pieces of information together via meaning, ie. a logical component of a larger context
 
-1. What is a Chunk
-2. Why We Can and Should Enhance Our Chunking Skills
+1. What is a chunk
+  * mental leaps which unite scattered bits of information through meaning
+  * a network of neurons which are used to firing together
+2. Why we can and should enhance our chunking skills
+  * neural mini-chunks can be knit into larger and larger chunks to be unconsciously utilized as for-free primitives upon subject mastery
+  * learning new math and science material results in a heavy cognitive load
+    * chunks allow focus on key features and underlying principles of a problem to understand
+    * chunks are like using a roadmap when traveling to a new place
+3. How to form a chunk?
+  * focus undivided attention on information to be chunked
+    * makes new neural patterns and connects them with preexisting patterns that are spread across many areas of the brain
+  * first, understand the main overall idea
+    * second, allow focused/diffused modes of thinking to take turns forming meaningful understanding of the idea's details
+    * understanding is like the super glue that holds the underlying memory traces together
+  * just because we see or understand something doesn't mean we can actually do it
+    * only doing something ourselves helps create the neural patterns that underlie true mastery
+  * gain context to understand how and when to use the chunk
+    * going beyond the initial problem and seeing more broadly, repeating and practicing with both related and unrelated problems
+    * when to use a chunk and when *not* to use a chunk
+
+## Learning
+
+Learning takes place in two ways:
+
+1. top-down
+  * big picture: what we're learning and where it fits in
+2. bottom-up
+  * fill in the details of the big picture
+  * small components: practice and repetition build and strengthen chunks of correlated data
+
+Context is where top-down and bottom-up learning meet.  Context means learning when to use that technique instead of some other technique.
+
 
 ## Memory
 
